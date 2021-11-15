@@ -1,0 +1,1 @@
+./vendor/lts/php-qa-ci/ci.bash
