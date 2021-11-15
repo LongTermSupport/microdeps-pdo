@@ -10,6 +10,9 @@ Currently this supports MySQL and SQLite Databases, more can be added easily eno
 
 ## Installing
 
+You can use Composer if you want to quickly test out the idea, though it is suggested that as this is so small - you
+might be better just copy/pasting it into your first party code.
+
 ```
 composer require lts/microdeps-pdo
 ```
