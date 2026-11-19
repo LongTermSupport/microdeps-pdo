@@ -17,6 +17,11 @@
     "lts/php-qa-ci": "dev-master@dev"
   },
   "config": {
+    "allow-plugins": {
+      "ergebnis/composer-normalize": true,
+      "infection/extension-installer": true,
+      "phpstan/extension-installer": true
+    },
     "bin-dir": "bin",
     "optimize-autoloader": true,
     "preferred-install": {
